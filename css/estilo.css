@@ -1,0 +1,15 @@
+/* CSS Document */
+
+header
+{
+	background-color:black; color: white;
+}
+
+nav
+{
+	background-color:#DADADA;
+}
+
+section.portada{
+	background-color:#78BD8E; float: left; width: 70%;
+}
